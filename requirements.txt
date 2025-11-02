@@ -1,0 +1,10 @@
+setuptools
+wheel
+spacy[apple]
+download
+en_core_web_sm
+jupyter
+urllib3<2.0
+requests
+pandas
+https://huggingface.co/chcaa/grc_odycy_joint_trf/resolve/main/grc_odycy_joint_trf-0.7.0-py3-none-any.whl
