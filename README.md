@@ -1,4 +1,4 @@
-# Mark on Spacy
+# Mark on Spacy and Text-Fabric
 
 This simple Natural Language Processing (NPL) study on Mark, greek, perform the following analysis on the greek text of Mark:
 
